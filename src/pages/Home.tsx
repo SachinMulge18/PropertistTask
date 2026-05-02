@@ -7,6 +7,12 @@ import SkeletonCard from '../components/SkeletonCard'
 import Filters from '../components/Filters'
 import { useDebounse } from '../hooks/useDebouseHook'
 
+const normalizedPropertyData = propertyData.map((property) => ({
+    ...property,
+    type: property.type as Property['type'],
+    description: property.description ?? '',
+})) as Property[]
+
 const Home = () => {
     const [properties, setProperties] = useState<Property[]>([])
     const [search, setSearch] = useState("")
@@ -18,7 +24,7 @@ const Home = () => {
 
     useEffect(() => {
         setTimeout(() => {
-            setProperties(propertyData)
+            setProperties(normalizedPropertyData)
             setLoading(false)
         }, 1500)
     }, [])
