@@ -1,4 +1,3 @@
-import React from 'react'
 interface Props {
     mode: 'Buy' | 'Rent'
     onModeChange: (mode: 'Buy' | 'Rent') => void
