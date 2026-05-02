@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "title": "Luxury Apartment",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=1200&auto=format&fit=crop",
+    "price": "₹85 Lakhs",
+    "location": "Pune",
+    "bhk": 2,
+    "type": "Buy"
+  },
+  {
+    "id": 2,
+    "title": "Modern Villa",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1200&auto=format&fit=crop",
+    "price": "₹1.5 Crore",
+    "location": "Mumbai",
+    "bhk": 4,
+    "type": "Buy"
+  },
+  {
+    "id": 3,
+    "title": "Affordable Flat",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1200&auto=format&fit=crop",
+    "price": "₹18,000 / month",
+    "location": "Bangalore",
+    "bhk": 1,
+    "type": "Rent"
+  },
+  {
+    "id": 4,
+    "title": "Premium Penthouse",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1200&auto=format&fit=crop",
+    "price": "₹3 Crore",
+    "location": "Delhi",
+    "bhk": 5,
+    "type": "Buy"
+  },
+  {
+    "id": 5,
+    "title": "Cozy Studio",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1200&auto=format&fit=crop",
+    "price": "₹12,000 / month",
+    "location": "Pune",
+    "bhk": 1,
+    "type": "Rent",
+    "description": "Compact studio apartment ideal for students."
+  },
+  
+  {
+    "id": 6,
+    "title": "Luxury Apartment",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=1200&auto=format&fit=crop",
+    "price": "₹85 Lakhs",
+    "location": "Pune",
+    "bhk": 2,
+    "type": "Buy",
+    "description": "Beautiful 2 BHK apartment with modern amenities."
+  },
+  {
+    "id": 7,
+    "title": "Modern Villa",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1200&auto=format&fit=crop",
+    "price": "₹1.5 Crore",
+    "location": "Mumbai",
+    "bhk": 4,
+    "type": "Buy"
+  },
+  {
+    "id": 8,
+    "title": "Affordable Flat",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1200&auto=format&fit=crop",
+    "price": "₹18,000 / month",
+    "location": "Bangalore",
+    "bhk": 1,
+    "type": "Rent"
+  },
+  {
+    "id": 9,
+    "title": "Premium Penthouse",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1200&auto=format&fit=crop",
+    "price": "₹3 Crore",
+    "location": "Delhi",
+    "bhk": 5,
+    "type": "Buy"
+  },
+  {
+    "id": 10,
+    "title": "Cozy Studio",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1200&auto=format&fit=crop",
+    "price": "₹12,000 / month",
+    "location": "Pune",
+    "bhk": 1,
+    "type": "Rent"
+  }
+]
